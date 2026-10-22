@@ -1,0 +1,19 @@
+# Saluca roadmap
+
+> Saluca's public product roadmap: one GitHub issue (a change record) per direction, with Saluca's position in the thread and a thumbs-up reaction counted as a vote. No licence has been chosen yet.
+
+There is no code here. Change records are issues opened by Saluca, each with a stage label (under-review, planned, in-progress, shipped, declined) and product labels (product:asphodel-memory, product:mindsets, product:tiresias-zt, product:tiresias-watch, product:tiresias-report). Raw feature requests are not published here, and bugs are handled privately through support.
+
+## Docs
+
+- [README](https://github.com/saluca-labs/roadmap/blob/main/README.md): how the roadmap works, the stage labels, how to endorse a record
+
+## Records
+
+- [Change records](https://github.com/saluca-labs/roadmap/issues): the issues themselves
+- [Change record #1](https://github.com/saluca-labs/roadmap/issues/1): subject-facing context audit, planned
+
+## Optional
+
+- [Most endorsed](https://github.com/saluca-labs/roadmap/issues?q=is%3Aissue+sort%3Areactions-%2B1-desc): records sorted by thumbs-up
+- [llms-full.txt](https://github.com/saluca-labs/roadmap/blob/main/llms-full.txt): this header plus the README in full
