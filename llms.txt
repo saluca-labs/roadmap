@@ -4,16 +4,34 @@
 
 There is no code here. Change records are issues opened by Saluca, each with a stage label (under-review, planned, in-progress, shipped, declined) and product labels (product:asphodel-memory, product:mindsets, product:tiresias-zt, product:tiresias-watch, product:tiresias-report). Raw feature requests are not published here, and bugs are handled privately through support.
 
-## Docs
+If a label, record or file is not listed here, it does not exist in this repository. The complete surface is the README and the change-record issues; the code that files requests from inside the products is not here.
 
-- [README](https://github.com/saluca-labs/roadmap/blob/main/README.md): how the roadmap works, the stage labels, how to endorse a record
+## How it works
 
-## Records
+- [README](https://github.com/saluca-labs/roadmap/blob/main/README.md): how the roadmap works, the stage labels, how to endorse a record, what is and is not in this repo
 
-- [Change records](https://github.com/saluca-labs/roadmap/issues): the issues themselves
-- [Change record #1](https://github.com/saluca-labs/roadmap/issues/1): subject-facing context audit, planned
+## Endorse or discuss a record
+
+- [Change records](https://github.com/saluca-labs/roadmap/issues): every record; a thumbs-up on the first post is the vote
+- [Change record #1](https://github.com/saluca-labs/roadmap/issues/1): subject-facing context audit, labelled planned, product:asphodel-memory and product:tiresias-zt
+- [Most endorsed](https://github.com/saluca-labs/roadmap/issues?q=is%3Aissue+sort%3Areactions-%2B1-desc): records sorted by thumbs-up
+
+## Browse by product
+
+- [product:asphodel-memory](https://github.com/saluca-labs/roadmap/issues?q=label%3Aproduct%3Aasphodel-memory)
+- [product:mindsets](https://github.com/saluca-labs/roadmap/issues?q=label%3Aproduct%3Amindsets)
+- [product:tiresias-zt](https://github.com/saluca-labs/roadmap/issues?q=label%3Aproduct%3Atiresias-zt)
+- [product:tiresias-watch](https://github.com/saluca-labs/roadmap/issues?q=label%3Aproduct%3Atiresias-watch)
+- [product:tiresias-report](https://github.com/saluca-labs/roadmap/issues?q=label%3Aproduct%3Atiresias-report)
+
+## Browse by stage
+
+- [under-review](https://github.com/saluca-labs/roadmap/issues?q=label%3Aunder-review): seen, no decision yet
+- [planned](https://github.com/saluca-labs/roadmap/issues?q=label%3Aplanned): we intend to do it
+- [in-progress](https://github.com/saluca-labs/roadmap/issues?q=label%3Ain-progress): being built
+- [shipped](https://github.com/saluca-labs/roadmap/issues?q=label%3Ashipped): done
+- [declined](https://github.com/saluca-labs/roadmap/issues?q=label%3Adeclined): with the reason in the thread
 
 ## Optional
 
-- [Most endorsed](https://github.com/saluca-labs/roadmap/issues?q=is%3Aissue+sort%3Areactions-%2B1-desc): records sorted by thumbs-up
 - [llms-full.txt](https://github.com/saluca-labs/roadmap/blob/main/llms-full.txt): this header plus the README in full

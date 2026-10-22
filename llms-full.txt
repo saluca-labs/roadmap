@@ -4,9 +4,13 @@
 
 There is no code here. Change records are issues opened by Saluca, each with a stage label (under-review, planned, in-progress, shipped, declined) and product labels (product:asphodel-memory, product:mindsets, product:tiresias-zt, product:tiresias-watch, product:tiresias-report). Raw feature requests are not published here, and bugs are handled privately through support.
 
+If a label, record or file is not listed here, it does not exist in this repository. The complete surface is the README and the change-record issues; the code that files requests from inside the products is not here.
+
+The full text of this repository's prose docs, concatenated, each under its path. Regenerate this file whenever one of them changes.
+
 ## README.md
 
-# Saluca roadmap
+### Saluca roadmap
 
 This is where Saluca's product direction is decided in the open.
 
@@ -31,21 +35,21 @@ see here is what we chose to say out loud.
 
 Bugs go through support privately and do not appear here.
 
-## Status
+#### Status
 
 Maintained. As of 2026-10-22 there is one change record:
 [#1, subject-facing context audit](https://github.com/saluca-labs/roadmap/issues/1), labelled `planned`.
 
-## Install
+#### Install
 
 Nothing to install: this repo is a README and its issues. You need a GitHub account to add a 👍 or comment.
 
-## Quickstart
+#### Quickstart
 
 1. Open the [list of change records](https://github.com/saluca-labs/roadmap/issues).
 2. Open one and add a 👍 reaction to the first post to endorse it, or comment with your reasoning.
 
-## Usage
+#### Usage
 
 - **Find a product's records:** filter by its label, for example
   [`product:tiresias-zt`](https://github.com/saluca-labs/roadmap/issues?q=label%3Aproduct%3Atiresias-zt).
@@ -55,22 +59,31 @@ Nothing to install: this repo is a README and its issues. You need a GitHub acco
   for example [`planned`](https://github.com/saluca-labs/roadmap/issues?q=label%3Aplanned).
 - **See what is most wanted:** [sort by 👍](https://github.com/saluca-labs/roadmap/issues?q=is%3Aissue+sort%3Areactions-%2B1-desc).
 
-## Architecture
+#### Architecture
 
 There is no code. Each change record is a GitHub issue opened by Saluca, with one stage label and one or
 more product labels. The position and reasoning live in the issue body and thread; a 👍 reaction on the
 first post is the vote.
 
-## Citation
+What is in this repo and what is not:
+
+| Part | In this repo | Where it lives |
+|---|---|---|
+| Change records, their stage and product labels, the 👍 votes and the discussion | Yes | This repo's issues |
+| Raw feature requests | No | Not published anywhere |
+| The in-product path that files a request anonymously | No | In each product, not in this repo |
+| Bug reports | No | Handled privately through support |
+
+#### Citation
 
 No archived record yet.
 
-## License
+#### License
 
 No licence has been chosen for this repo yet, so no licence is granted beyond what GitHub's terms of service
 allow.
 
-## Links
+#### Links
 
 - [Change records](https://github.com/saluca-labs/roadmap/issues)
 - [saluca-labs/open-review](https://github.com/saluca-labs/open-review): public review of Saluca Labs research

@@ -53,6 +53,15 @@ There is no code. Each change record is a GitHub issue opened by Saluca, with on
 more product labels. The position and reasoning live in the issue body and thread; a 👍 reaction on the
 first post is the vote.
 
+What is in this repo and what is not:
+
+| Part | In this repo | Where it lives |
+|---|---|---|
+| Change records, their stage and product labels, the 👍 votes and the discussion | Yes | This repo's issues |
+| Raw feature requests | No | Not published anywhere |
+| The in-product path that files a request anonymously | No | In each product, not in this repo |
+| Bug reports | No | Handled privately through support |
+
 ## Citation
 
 No archived record yet.
