@@ -1,3 +1,5 @@
+![roadmap](docs/img/banner-2026-10-23.jpg)
+
 # Saluca roadmap
 
 This is where Saluca's product direction is decided in the open.
