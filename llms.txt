@@ -1,6 +1,6 @@
 # Saluca roadmap
 
-> Saluca's public product roadmap: one GitHub issue (a change record) per direction, with Saluca's position in the thread and a thumbs-up reaction counted as a vote. No licence has been chosen yet.
+> Saluca's public product roadmap: one GitHub issue (a change record) per direction, with Saluca's position in the thread and a thumbs-up reaction counted as a vote. Licence: FSL-1.1-Apache-2.0, source-available, converting to Apache 2.0 after two years.
 
 There is no code here. Change records are issues opened by Saluca, each with a stage label (under-review, planned, in-progress, shipped, declined) and product labels (product:asphodel-memory, product:mindsets, product:tiresias-zt, product:tiresias-watch, product:tiresias-report). Raw feature requests are not published here, and bugs are handled privately through support.
 

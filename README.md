@@ -68,12 +68,13 @@ No archived record yet.
 
 ## License
 
-No licence has been chosen for this repo yet, so no licence is granted beyond what GitHub's terms of service
-allow.
+Functional Source License 1.1, Apache 2.0 future licence (FSL-1.1-Apache-2.0).
+Source-available: each release converts to Apache 2.0 after two years. See
+[`LICENSE`](LICENSE).
 
 ## Links
 
 - [Change records](https://github.com/saluca-labs/roadmap/issues)
 - [saluca-labs/open-review](https://github.com/saluca-labs/open-review): public review of Saluca Labs research
 
-_Last updated: 2026-10-22_
+_Last updated: 2026-10-23_
